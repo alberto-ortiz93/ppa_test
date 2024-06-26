@@ -1,0 +1,50 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+Format: 1.8
+Date: Wed, 23 Mar 2022 14:57:43 +0100
+Source: hello
+Built-For-Profiles: noudeb
+Architecture: source
+Version: 2.10-2ubuntu4
+Distribution: jammy
+Urgency: medium
+Maintainer: Ubuntu Developers <ubuntu-devel-discuss@lists.ubuntu.com>
+Changed-By: Łukasz 'sil2100' Zemczak <lukasz.zemczak@ubuntu.com>
+Changes:
+ hello (2.10-2ubuntu4) jammy; urgency=medium
+ .
+   * No-change rebuild for ppc64el baseline bump.
+Checksums-Sha1:
+ e534e01223e71cd14189c427bc479a302818a20b 1810 hello_2.10-2ubuntu4.dsc
+ f7bebf6f9c62a2295e889f66e05ce9bfaed9ace3 725946 hello_2.10.orig.tar.gz
+ 6d1dd4fbe968aa1a9146910ca0b0b2008bf45c7d 7032 hello_2.10-2ubuntu4.debian.tar.xz
+ 28a0b2b49510b1245123678d0c759c562a997be1 7343 hello_2.10-2ubuntu4_source.buildinfo
+Checksums-Sha256:
+ 94a43bf8cc5359e3958f081faccdd20188dab513a4b8b0593b2d5824a6eb8bb8 1810 hello_2.10-2ubuntu4.dsc
+ 31e066137a962676e89f69d1b65382de95a7ef7d914b8cb956f41ea72e0f516b 725946 hello_2.10.orig.tar.gz
+ bddaed51823b0e02f453cd202cbcab0ceab3e057aebbeeb2583dba729483cc36 7032 hello_2.10-2ubuntu4.debian.tar.xz
+ 43b0c8b3afa9ea773f6c49bca7d67acb4322caa66b094bb9548bee8effa7a5eb 7343 hello_2.10-2ubuntu4_source.buildinfo
+Files:
+ 53381f896ab4d0b4a10d7f2e69cffe9c 1810 devel optional hello_2.10-2ubuntu4.dsc
+ 6cd0ffea3884a4e79330338dcc2987d6 725946 devel optional hello_2.10.orig.tar.gz
+ 4e87bf7a5231918909edd09918e785e2 7032 devel optional hello_2.10-2ubuntu4.debian.tar.xz
+ 018c11dc5e043cee9514748a9b92e594 7343 devel optional hello_2.10-2ubuntu4_source.buildinfo
+Original-Maintainer: Santiago Vila <sanvila@debian.org>
+
+-----BEGIN PGP SIGNATURE-----
+
+iQIzBAEBCgAdFiEEbcB2BkKKbAxoLTDADeuAvT0JXQQFAmZ8ZMcACgkQDeuAvT0J
+XQQr+Q//c7aL10d938TScfUqnpQ2i2K3syTbHx5EROd5tnV7DQ6jyz7eZSEOh+PH
+51bGHci7g6JecEQ79SKCmccTXY95eaZfzFalEFjIrud8q7cOc6imfvdN+TXZi0GW
+gQZNTsItxuX8eA+Bt5F/Y1UVfIOlBClJbR6UmZIm84UCdopONqh0flUIMevoIpJN
+01z166xaOSr4Kto/LsHPnssvbdw8n5sBBWUmKJq6a/uiWWZXIpAotmNri23sjD9z
+RyCxtxjrwflyG0Hr9TmA6K1eWMlSWfB9hhv2NeRizOdAnXMt2U0J3jDbfXML2+j8
+F0NRbASVXiT2cg6jnVqOEsnf07CVzuPdUTbLyRNnRXULtJtqm2OHhAczyeRaD+8V
+zBIpTncVEDX/3NeIGF8g7mVPirg1/0Zn+UTRsYd8MK211WZNQR57iFnClNOYTnQO
+6Q+61ZNxuDD371/FVRwj4UaLnK/z2SmTwwItdtCWp5evfEcRiY0rC+42an5KvovR
+xsVD0k7Kz2vv9tiRLuoCc5BthEuKPHkCYtkQB0jzatxkTmI47Ek17OB5atH7SL25
+ckqaCI7xhw6C72+TR5zaqNj6r28hdKgbHfKbMl0No89Ipc4xB6HwKUiZC3AMRV2o
+umafC9HMxdlXXyhlVSMrYB7SY9dcrXtDt7gCQbOz4hyH9AMFgNM=
+=thJr
+-----END PGP SIGNATURE-----
